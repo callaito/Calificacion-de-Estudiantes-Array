@@ -1,0 +1,28 @@
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.exe
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.deps.json
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.runtimeconfig.json
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.AssemblyInfoInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.AssemblyInfo.cs
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.csproj.CoreCompileInputs.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\refint\Ejercicio_array_3.dll
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.pdb
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.genruntimeconfig.cache
+C:\Users\ELMZ\Desktop\C# ippfm\Ejercicio_array_3\obj\Debug\net6.0\ref\Ejercicio_array_3.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.exe
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.deps.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.runtimeconfig.json
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\bin\Debug\net6.0\Ejercicio_array_3.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.AssemblyInfo.cs
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\refint\Ejercicio_array_3.dll
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.pdb
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\Ejercicio_array_3.genruntimeconfig.cache
+C:\Users\pc\Documents\Trabajos de gama\PRIMEROS EJERCICIOS\Ejercicio_array_3\obj\Debug\net6.0\ref\Ejercicio_array_3.dll
